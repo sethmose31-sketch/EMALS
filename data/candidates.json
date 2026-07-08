@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T12:21:15.411174",
-  "started_at": "2026-07-08T12:12:24.700841",
-  "total_files_processed": 253,
-  "successful_extractions": 158,
+  "generated_at": "2026-07-08T12:30:24.408342",
+  "started_at": "2026-07-08T12:27:32.187552",
+  "total_files_processed": 232,
+  "successful_extractions": 164,
   "candidates": [
     {
       "full_name": "Hazel Saoke",
@@ -17305,167 +17305,985 @@
         "The 'EQUIPMENT EXPOSURE' section has been included under technical skills as specific knowledge areas."
       ],
       "source_file": "6b487337_Pauline_Kuya_Complete_CV.docx"
+    },
+    {
+      "full_name": "TABITHA MEKENYE",
+      "contact": {
+        "email": "mekenyetabitha@gmail.com",
+        "phone": "0741 886 428 / 0759 061 017",
+        "location": "Kericho",
+        "linkedin": null,
+        "portfolio_or_github": null
+      },
+      "current_title": "Medical Engineering Attachment Student",
+      "total_experience_years": 0.33,
+      "seniority_level": "Entry",
+      "summary": "A highly motivated and detail-oriented Medical Engineering student, expected to graduate in 2025. Seeking an opportunity to apply academic knowledge and practical skills in medical equipment installation, maintenance, and management, with a commitment to supporting healthcare delivery through efficient and safe operation of biomedical equipment.",
+      "skills": {
+        "technical": [
+          "Medical equipment installation and maintenance",
+          "Troubleshooting and calibration",
+          "Preventive maintenance planning",
+          "Knowledge of hospital safety standards",
+          "Basic electrical and electronic skills",
+          "Computer literacy",
+          "Biomedical instrumentation",
+          "Electronics",
+          "Electrical systems",
+          "Healthcare technology"
+        ],
+        "tools_and_platforms": [],
+        "soft": [
+          "Strong problem-solving and analytical skills",
+          "Excellent communication and teamwork abilities",
+          "Detail-oriented and safety-conscious",
+          "Quick learner",
+          "Adaptable",
+          "Reliable"
+        ]
+      },
+      "work_experience": [
+        {
+          "company": "Siloam Hospital – Kericho",
+          "role": "Medical Engineering Attachment Student",
+          "start_date": "2022-11",
+          "end_date": "2023-01",
+          "responsibilities": [
+            "Assisted in repair and maintenance of patient monitors, suction machines, and infusion pumps",
+            "Participated in preventive maintenance schedules",
+            "Conducted safety checks and calibration of biomedical equipment"
+          ]
+        },
+        {
+          "company": "Kericho County Referral Hospital",
+          "role": "Attachment Student",
+          "start_date": "2022-02",
+          "end_date": "2022-04",
+          "responsibilities": [
+            "Supported biomedical engineering team in daily operations",
+            "Assisted in installation and routine maintenance of diagnostic machines",
+            "Documented service reports and managed equipment records"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "Kenya Medical Training College (Eldoret Campus)",
+          "degree": "Diploma in Medical Engineering",
+          "field_of_study": "Medical Engineering",
+          "graduation_year": "2025"
+        },
+        {
+          "institution": "Kenya Medical Training College (Kisii Campus)",
+          "degree": "Certificate in Medical Engineering",
+          "field_of_study": "Medical Engineering",
+          "graduation_year": null
+        }
+      ],
+      "certifications": [],
+      "languages": [],
+      "red_flags_or_gaps": [
+        "The career objective states 'Medical Engineering graduate' but the Diploma is listed as 'Completed: 2025', indicating expected graduation.",
+        "One work experience entry for Kericho County Referral Hospital lists a future attachment period (Feb – Apr 2025), which has been excluded from experience calculation.",
+        "Very limited professional experience, consisting solely of attachments.",
+        "No explicit graduation year provided for the Certificate in Medical Engineering."
+      ],
+      "data_quality_notes": [
+        "The candidate's current status appears to be a student with expected graduation in 2025, despite the 'graduate' mention in the objective.",
+        "The future attachment date (2025) for Kericho County Referral Hospital has been noted as a potential typo or future plan and not included in experience calculation.",
+        "No specific graduation year for the Certificate in Medical Engineering."
+      ],
+      "source_file": "68d9557f_TABITHA-1.pdf"
+    },
+    {
+      "full_name": "Faith Audrey Achieng",
+      "contact": {
+        "email": "audreyachi16@gmail.com",
+        "phone": "0795446995",
+        "location": "Kenya",
+        "linkedin": null,
+        "portfolio_or_github": null
+      },
+      "current_title": "Electrical Technician",
+      "total_experience_years": 0.75,
+      "seniority_level": "Junior",
+      "summary": "Results-driven Biomedical Engineer with practical experience in medical equipment maintenance, electrical systems, and healthcare technology. Skilled in troubleshooting, preventive maintenance, customer support, and communicating technical concepts to diverse audiences. Passionate about building client relationships, identifying customer needs, and delivering technical solutions that improve healthcare outcomes.",
+      "skills": {
+        "technical": [
+          "Medical Equipment Knowledge",
+          "Biomedical Equipment Maintenance",
+          "Electrical Installation & Troubleshooting",
+          "Preventive Maintenance"
+        ],
+        "tools_and_platforms": [
+          "Microsoft Office Suite"
+        ],
+        "soft": [
+          "Technical Sales Support",
+          "Customer Relationship Management",
+          "Product Demonstrations",
+          "Communication & Presentation",
+          "Business Development",
+          "Negotiation Skills",
+          "Problem Solving"
+        ]
+      },
+      "work_experience": [
+        {
+          "company": "MEDWARE SOLUTIONS LIMITED",
+          "role": "Electrical Technician",
+          "start_date": "2025-02",
+          "end_date": "2025-04",
+          "responsibilities": [
+            "Install and maintain electrical systems.",
+            "Troubleshoot electrical faults efficiently.",
+            "Ensure compliance with safety regulations.",
+            "Work collaboratively with technical teams.",
+            "Interact professionally with clients while resolving technical issues."
+          ]
+        },
+        {
+          "company": "AGAKHAN HOSPITAL",
+          "role": "Attaché",
+          "start_date": "2023-03",
+          "end_date": "2023-05",
+          "responsibilities": [
+            "Performed routine inspections and maintenance of equipment and systems.",
+            "Assisted in troubleshooting technical and operational issues.",
+            "Supported preventive maintenance programs to improve equipment reliability.",
+            "Ensured compliance with safety regulations and operational procedures.",
+            "Maintained accurate maintenance records and reports."
+          ]
+        },
+        {
+          "company": "JARAMOGI OGINGA ODINGA TEACHING AND REFERRAL HOSPITAL",
+          "role": "Attaché",
+          "start_date": "2022-09",
+          "end_date": "2022-11",
+          "responsibilities": [
+            "Assisted in installation, calibration, and maintenance of medical equipment including diagnostic and life-support devices.",
+            "Supported clinical staff in proper equipment use and troubleshooting.",
+            "Conducted preventive maintenance and safety checks in compliance with hospital standards.",
+            "Maintained equipment records, service logs, and inventory documentation.",
+            "Interacted with suppliers and vendors during equipment servicing and upgrades."
+          ]
+        },
+        {
+          "company": "AVENUE HOSPITAL",
+          "role": "Attache",
+          "start_date": null,
+          "end_date": null,
+          "responsibilities": [
+            "Performed preventive maintenance on medical equipment",
+            "Troubleshot electrical faults in diagnostic and laboratory devices",
+            "Assisted in installation and commissioning of new equipment",
+            "Tested power supplies, fuses, transformers, and wiring systems",
+            "Maintained service records and maintenance logs",
+            "Ensured compliance with safety and operational standards"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "KENYA MEDICAL TRAINING COLLEGE",
+          "degree": "Diploma",
+          "field_of_study": "Medical Engineering",
+          "graduation_year": "2025"
+        },
+        {
+          "institution": "KENYA MEDICAL TRAINING COLLEGE",
+          "degree": "Certificate",
+          "field_of_study": "Medical Engineering",
+          "graduation_year": "2023"
+        },
+        {
+          "institution": "NG’IYA GIRLS HIGH SCHOOL",
+          "degree": "Kenya Certificate of Secondary Education",
+          "field_of_study": null,
+          "graduation_year": "2018"
+        },
+        {
+          "institution": "C-M.M.SHAH PRIMARY SCHOOL",
+          "degree": "Kenya Certificate of Primary Education",
+          "field_of_study": null,
+          "graduation_year": "2014"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        "English",
+        "Kiswahili"
+      ],
+      "red_flags_or_gaps": [
+        "Missing start/end dates for Avenue Hospital work experience.",
+        "All listed work experiences are short-term (3 months each) or internships/attachments, resulting in less than 1 year of total calculated experience.",
+        "A future job entry 'February 2026 - Till date' is present at the top of the CV without a clear company or role association."
+      ],
+      "data_quality_notes": [
+        "Calculated total experience based on explicit dates for individual roles; general date ranges at the top of the CV were not directly tied to specific work experiences.",
+        "The 'current_title' is derived from the most recent completed job title, 'Electrical Technician', rather than the aspirational title in the objective."
+      ],
+      "source_file": "6c3eb431_TECHNICAL SALES ENGINEER .pdf"
+    },
+    {
+      "full_name": "ALICE NYAMBEKI",
+      "contact": {
+        "email": "nyambeki.mbeki@gmail.com",
+        "phone": "0792719738",
+        "location": "Nairobi, Kenya",
+        "linkedin": null,
+        "portfolio_or_github": null
+      },
+      "current_title": "Biomedical Professional",
+      "total_experience_years": null,
+      "seniority_level": "Entry",
+      "summary": "A highly motivated and detail-oriented Biomedical professional with hands-on experience in biomedical device development, equipment testing, and maintenance. Skilled in technical documentation, data analysis, and safety compliance testing within healthcare environments. Passionate about improving healthcare outcomes through innovation and practical engineering solutions.",
+      "skills": {
+        "technical": [
+          "Biomedical Device Development",
+          "Equipment Maintenance & Calibration",
+          "Technical Documentation",
+          "Data Analysis",
+          "Safety & Quality Control"
+        ],
+        "tools_and_platforms": [
+          "Sensors"
+        ],
+        "soft": [
+          "Communication & Teamwork",
+          "Administrative Support"
+        ]
+      },
+      "work_experience": [
+        {
+          "company": "Moi Teaching and Referral Hospital",
+          "role": "Biomedical Engineer Intern",
+          "start_date": null,
+          "end_date": null,
+          "responsibilities": [
+            "Assisted in the development and testing of biomedical devices for patient care.",
+            "Conducted equipment tests to ensure compliance with safety and performance standards.",
+            "Supported the calibration, maintenance, and troubleshooting of biomedical equipment across hospital departments.",
+            "Collaborated with healthcare professionals to gather feedback and improve device performance.",
+            "Investigated and recommended design modifications to improve cost efficiency and usability.",
+            "Organized and maintained detailed test records and analysis reports."
+          ]
+        },
+        {
+          "company": "Divine Photography",
+          "role": "Receptionist",
+          "start_date": null,
+          "end_date": null,
+          "responsibilities": [
+            "Managed client appointments, calls, and front-desk operations.",
+            "Handled payments, invoices, and data entry tasks accurately.",
+            "Provided administrative and clerical support to staff, including filing, scanning, and scheduling.",
+            "Maintained a clean and organized reception area and ensured excellent customer service."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "Kisii National Polytechnic",
+          "degree": "Diploma",
+          "field_of_study": "Medical Engineering",
+          "graduation_year": null
+        },
+        {
+          "institution": "Moi Forces Academy – Lanet",
+          "degree": "Kenya Certificate of Secondary Education",
+          "field_of_study": null,
+          "graduation_year": null
+        }
+      ],
+      "certifications": [
+        "Kenya Sign Language"
+      ],
+      "languages": [],
+      "red_flags_or_gaps": [
+        "Missing employment dates",
+        "Missing education dates",
+        "Career shift/gap (Biomedical Engineer Intern to Receptionist)"
+      ],
+      "data_quality_notes": [
+        "Missing start and end dates for all work experience.",
+        "Missing graduation years for education.",
+        "No explicit spoken languages mentioned, only a sign language certification."
+      ],
+      "source_file": "6c4b887f_Alice_Nyambeki_CV.pdf"
+    },
+    {
+      "full_name": "IVY CHEBET LETTING",
+      "contact": {
+        "email": "chebetivy24@gmail.com",
+        "phone": "+254 743 737 227",
+        "location": "Nairobi, Kenya",
+        "linkedin": null,
+        "portfolio_or_github": null
+      },
+      "current_title": "Sales Engineer",
+      "total_experience_years": 2.0,
+      "seniority_level": "Junior",
+      "summary": "Dedicated and detail-oriented Medical Engineer with strong knowledge of biomedical equipment maintenance, troubleshooting, calibration, and healthcare technology systems. Skilled in preventive and corrective maintenance, equipment installation, safety compliance, and technical support within hospital environments. Passionate about improving patient care through reliable medical technology and efficient engineering solutions.",
+      "skills": {
+        "technical": [
+          "biomedical equipment maintenance",
+          "troubleshooting",
+          "calibration",
+          "healthcare technology systems",
+          "preventive maintenance",
+          "corrective maintenance",
+          "equipment installation",
+          "safety compliance",
+          "technical support",
+          "medical devices",
+          "advanced healthcare technology solutions",
+          "technical product demonstrations",
+          "customized technical solutions",
+          "diagnosing and repairing equipment faults",
+          "monitoring medical gas systems",
+          "oxygen concentrators",
+          "life-support equipment",
+          "diagnostic equipment",
+          "hemodialysis machines",
+          "water treatment systems",
+          "anesthesia machines",
+          "autoclaves",
+          "operational safety verification"
+        ],
+        "tools_and_platforms": [
+          "Multimeters",
+          "Safety Analyzers",
+          "Oscilloscopes",
+          "Medical Lasers",
+          "Infusion Pumps",
+          "Physiotherapy Equipment",
+          "Medical Gas Systems",
+          "Patient Monitors",
+          "ECG Machines",
+          "Defibrillators",
+          "X-Ray",
+          "Ultrasound",
+          "Ventilators",
+          "Autoclaves",
+          "Suction Machines",
+          "Laboratory Equipment"
+        ],
+        "soft": [
+          "Dedicated",
+          "Detail-oriented",
+          "Passionate",
+          "Quick learner",
+          "Strong analytical skills",
+          "Professional",
+          "Team player"
+        ]
+      },
+      "work_experience": [
+        {
+          "company": "LifeTech Solution",
+          "role": "Sales Engineer",
+          "start_date": "2025-08",
+          "end_date": "Present",
+          "responsibilities": [
+            "Promoted and marketed medical devices and advanced healthcare technology solutions to clinical and hospital stakeholders.",
+            "Provided comprehensive technical product demonstrations, presentations, and consulting to prospective healthcare clients.",
+            "Collaborated with engineering and procurement teams to deliver customized technical solutions that meet specific hospital requirements.",
+            "Managed key accounts and delivered exceptional pre-sales and post-sales technical and commercial support."
+          ]
+        },
+        {
+          "company": "Ziwa Sub-County Hospital",
+          "role": "Biomedical Technician",
+          "start_date": "2025-02",
+          "end_date": "2025-07",
+          "responsibilities": [
+            "Performed preventive and corrective maintenance on medical equipment.",
+            "Assisted in installation, testing, and commissioning of biomedical devices.",
+            "Diagnosed and repaired equipment faults to minimize downtime.",
+            "Maintained maintenance records and technical documentation.",
+            "Worked with healthcare staff to ensure proper equipment operation."
+          ]
+        },
+        {
+          "company": "Mathare National Teaching and Referral Hospital",
+          "role": "Medical Engineer Intern",
+          "start_date": "2024-11",
+          "end_date": "2025-02",
+          "responsibilities": [
+            "Facilitated technical workshops for nursing and clinical staff.",
+            "Performed preventive servicing and emergency repairs on biomedical equipment.",
+            "Assisted in troubleshooting and calibration of hospital biomedical devices."
+          ]
+        },
+        {
+          "company": "National Spinal Injury Referral Hospital",
+          "role": "Biomedical Engineer Attachee",
+          "start_date": "2022",
+          "end_date": "2023",
+          "responsibilities": [
+            "Assisted in monitoring medical gas systems and oxygen concentrators.",
+            "Supported troubleshooting of life-support and diagnostic equipment.",
+            "Helped reduce equipment downtime through timely technical interventions."
+          ]
+        },
+        {
+          "company": "Kapsabet County Referral Hospital",
+          "role": "Biomedical Engineer Attachee",
+          "start_date": "2021",
+          "end_date": "2022",
+          "responsibilities": [
+            "Assisted in maintenance of hemodialysis machines and water treatment systems.",
+            "Verified operational safety of anesthesia machines and autoclaves before surgical procedures."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "Kenya Medical Training College",
+          "degree": "Diploma",
+          "field_of_study": "Medical Engineering",
+          "graduation_year": "2023"
+        },
+        {
+          "institution": "Tulon Secondary School",
+          "degree": "KCSE Certificate",
+          "field_of_study": null,
+          "graduation_year": "2018"
+        },
+        {
+          "institution": "Milimani Primary School",
+          "degree": "KCPE Certificate",
+          "field_of_study": null,
+          "graduation_year": "2014"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        "English (Fluent)",
+        "Swahili (Fluent)",
+        "German (Basic A1 Level)"
+      ],
+      "red_flags_or_gaps": [
+        "Significant date inconsistencies: The first three work experiences are listed with future start dates (2024, 2025), including a 'Present' end date for a role starting in August 2025. This suggests either a typo or a resume prepared for future roles/aspirations rather than current/past experience.",
+        "The 'total_experience_years' calculation is based only on the past 'Attachee' roles due to the future dates of other roles."
+      ],
+      "data_quality_notes": [
+        "Work experience dates for the first three roles (Sales Engineer, Biomedical Technician, Medical Engineer Intern) are in the future, making it difficult to accurately calculate current total experience. Total experience is calculated based only on the past 'Attachee' roles."
+      ],
+      "source_file": "6cd0f27e_Ivy_Letting_CV.pdf"
+    },
+    {
+      "full_name": "MICHAEL KOMBA MUHIKA",
+      "contact": {
+        "email": "kombamuhika@gmail.com",
+        "phone": "+254 746995496",
+        "location": "NYAHURURU",
+        "linkedin": null,
+        "portfolio_or_github": null
+      },
+      "current_title": "Intern Biomedical Engineer",
+      "total_experience_years": 0.6,
+      "seniority_level": "Entry",
+      "summary": "A highly motivated Biomedical Engineer with hands-on experience in installation, maintenance, troubleshooting, and repair of technical equipment in demanding operational environments. Skilled in preventive maintenance, equipment diagnostics, process monitoring, safety compliance, and technical reporting. Experienced in collaborating with multidisciplinary teams to improve operational efficiency, enhance equipment reliability, and support continuous process improvement.",
+      "skills": {
+        "technical": [
+          "Installation",
+          "Maintenance",
+          "Troubleshooting",
+          "Repair of technical equipment",
+          "Preventive maintenance",
+          "Equipment diagnostics",
+          "Process monitoring",
+          "Safety compliance",
+          "Technical reporting",
+          "Proteus simulation",
+          "Basic data analysis (NumPy, Pandas, Matplotlib)",
+          "Calibration and testing of medical equipment",
+          "Medical gases plant monitoring and servicing",
+          "Commissioning of new medical equipment",
+          "Daily routine checks on medical equipment (Anesthesia, dialysis, Baby Incubator, Ventilator machine)",
+          "Fault diagnostic and repair of biomedical equipment",
+          "Assembling of medical equipment",
+          "Electrical installation support"
+        ],
+        "tools_and_platforms": [
+          "Proteus simulation",
+          "Python",
+          "NumPy",
+          "Pandas",
+          "Matplotlib",
+          "QA-ES III electro surgery unit analyzer",
+          "ESA615",
+          "Prosim 8"
+        ],
+        "soft": [
+          "Strong coordination",
+          "Teamwork abilities",
+          "Quality standards adherence",
+          "Well-developed communication skills",
+          "Inventory and stock management",
+          "Multidisciplinary team collaboration",
+          "Problem-solving skills",
+          "Highly motivated",
+          "Hands-on experience",
+          "Dedicated"
+        ]
+      },
+      "work_experience": [
+        {
+          "company": "Pope Benedict XVI Catholic Hospital",
+          "role": "Intern Biomedical Engineer",
+          "start_date": "2026-03",
+          "end_date": "Present",
+          "responsibilities": [
+            "Installing and commissioning of new equipment",
+            "Fault diagnostic and repair of medical equipment to minimize downtime",
+            "Performing planned preventive maintenance (PPM) on medical equipment to ensure optimal performance",
+            "Conducting performance verification and electrical safety checks",
+            "Maintain service record and equipment documentation",
+            "Working with technicians and clinical staff to resolve equipment issues"
+          ]
+        },
+        {
+          "company": "Faraji Agrovet",
+          "role": "Agrovet Assistant",
+          "start_date": "2025-10",
+          "end_date": "2026-02",
+          "responsibilities": [
+            "Managed inventory of medical and veterinary supplies ensuring proper storage and stock availability",
+            "Monitored stock levels and maintained accurate records to prevent shortages and wastage",
+            "Handled customer service and provided product guidance to improve client satisfaction",
+            "Handled transactions and maintained daily sales and operational records",
+            "Supported smooth daily shop operations and order coordination"
+          ]
+        },
+        {
+          "company": "Kenyatta University Teaching Research and Referral Hospital",
+          "role": "Industrial Attachment",
+          "start_date": "2024-09",
+          "end_date": "2024-12",
+          "responsibilities": [
+            "Calibrated and tested medical equipment such Patient monitor, centrifuge, Ultrasound.",
+            "Monitored and serviced the medical gases plant",
+            "Assisted in installation and commissioning of new medical equipment.",
+            "Performing and recording daily routine checks on equipment such as Anesthesia, dialysis, Baby Incubator and Ventilator machine.",
+            "Conducted fault diagnostic and repair of biomedical equipment."
+          ]
+        },
+        {
+          "company": "AIC Kijabe Hospital",
+          "role": "Industrial Attachment",
+          "start_date": "2023-09",
+          "end_date": "2023-12",
+          "responsibilities": [
+            "Took part in the installation of medical oxygen plant.",
+            "Servicing of medical equipment’s",
+            "Performing planned preventive maintenance on medical equipment",
+            "Assisted in assembling of medical equipment",
+            "Carried out regular routine maintenance of medical equipment"
+          ]
+        },
+        {
+          "company": "Technical University of Mombasa",
+          "role": "Industrial Attachment",
+          "start_date": "2022-09",
+          "end_date": "2022-11",
+          "responsibilities": [
+            "Maintained records and documentation of technical activities",
+            "Serviced medical equipment",
+            "Supported electrical installation"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "Technical University of Mombasa",
+          "degree": "Bachelor of Science",
+          "field_of_study": "Medical Engineering",
+          "graduation_year": "2025"
+        },
+        {
+          "institution": "Mary Mother of Grace Boys Sec. School",
+          "degree": null,
+          "field_of_study": null,
+          "graduation_year": "2019"
+        },
+        {
+          "institution": "Kiheo Primary School",
+          "degree": null,
+          "field_of_study": null,
+          "graduation_year": "2015"
+        }
+      ],
+      "certifications": [
+        "Flukes Advantage training (Certificate of using QA-ES III electro surgery unit analyzer, ESA615 and Introduction to Prosim 8)",
+        "Computer packages (GATHANJI EMPOWERMENT CENTER)"
+      ],
+      "languages": [
+        "English"
+      ],
+      "red_flags_or_gaps": [
+        "Significant future dates for education (graduating Nov 2025) and work experience (starting March 2026, Oct 2025, Sept 2024). This CV appears to be a projection rather than a record of past achievements.",
+        "The 'current' role at Pope Benedict XVI Catholic Hospital starts in March 2026, which is in the future relative to the expected reading date of a CV in 2024.",
+        "The 'Agrovet Assistant' role is not directly related to Biomedical Engineering."
+      ],
+      "data_quality_notes": [
+        "Total experience calculated based on completed roles (Sept 2022 - Nov 2022 and Sept 2023 - Dec 2023) due to future dates in other work experience entries. If the CV is read after 2026, the total experience would be higher.",
+        "The CV contains projected future employment and education dates, making traditional experience calculation challenging."
+      ],
+      "source_file": "6f0f373b_MICHAEL KOMBA MUHIKA-CV.pdf"
+    },
+    {
+      "full_name": "PHANICE WAFULA",
+      "contact": {
+        "email": "phanicewa2000@gmail.com",
+        "phone": "0795800416",
+        "location": "Nairobi, Kenya",
+        "linkedin": "https://www.linkedin.com/in/phanice-wafula",
+        "portfolio_or_github": null
+      },
+      "current_title": "Trainer",
+      "total_experience_years": 1.42,
+      "seniority_level": "Junior",
+      "summary": "A biomedical engineer with a demonstrated history in hospitals, possessing extensive experience in medical equipment and computer skills. Proven track record in punctual, safe installation and maintenance, adept at implementing tech-driven solutions for medical equipment faults, and maintaining 80% safe functional medical equipment.",
+      "skills": {
+        "technical": [
+          "Electrical wiring",
+          "Welding",
+          "Flaring",
+          "Computer literacy"
+        ],
+        "tools_and_platforms": [
+          "Hand tools",
+          "Multimeter"
+        ],
+        "soft": [
+          "Excellent written communication",
+          "Excellent verbal communication",
+          "Service passion",
+          "Multi-tasking",
+          "Problem solving",
+          "Professional personal presentation",
+          "Customer service oriented",
+          "Front desk coordination",
+          "Professional attitude and appearance"
+        ]
+      },
+      "work_experience": [
+        {
+          "company": "BUKAH TRAINING COLLEGE",
+          "role": "TRAINER",
+          "start_date": "2024-03",
+          "end_date": "2024-05",
+          "responsibilities": [
+            "Delivering Training Sessions",
+            "Assessing Training Needs",
+            "Evaluating Progress",
+            "Providing Feedback",
+            "Developing Training Materials"
+          ]
+        },
+        {
+          "company": "Bungoma referral hospital",
+          "role": "Biomedical technician",
+          "start_date": "2021-09",
+          "end_date": "2022-05",
+          "responsibilities": [
+            "Approval of new biomedical equipment by conducting tests, insuring adherence to codes, making modifications",
+            "Installation of a new biomedical equipment by establishing, adjusting calibrating and testing performance",
+            "Evaluating the safety and efficiency and effectiveness of biomedical equipment",
+            "Maintenance of biomedical equipment by completing preventive maintenance scheme",
+            "Repairing malfunctions, calling for special service, evaluating service contracts, maintaining equipment inventors"
+          ]
+        },
+        {
+          "company": "Bungoma referral hospital",
+          "role": "Biomedical technician",
+          "start_date": "2021-04",
+          "end_date": "2021-05",
+          "responsibilities": [
+            "Repair of diagnostic equipment i.e. blood pressure machine and ophthalmoscope",
+            "Operation and maintenance of theatre equipment’s",
+            "Rehabilitation equipment repair",
+            "Repairing and servicing of physiotherapy equipment’",
+            "Repair of electrical and electronics devices",
+            "Maintenance of refrigeration, air conditioning and cold room",
+            "Servicing of oxygen plant and vacuum plant",
+            "Office management and general equipment repair"
+          ]
+        },
+        {
+          "company": "Mama Lucy Kibaki hospital",
+          "role": "BioMedical technologist",
+          "start_date": "2020-02",
+          "end_date": "2020-04",
+          "responsibilities": [
+            "Refrigeration and air conditioning system",
+            "Kitchen and laundry machines",
+            "Theatre equipment; anesthesia machine and theatre table",
+            "Maternity equipment; suction machine and oxygen concentrator",
+            "Laboratory equipment; hematology machine and biochemistry machine",
+            "Dental equipment",
+            "Radiology machines i.e. x-ray, CT scans and ultrasound",
+            "Renal department machines such as dialysis machine",
+            "Troubleshooting ICU machines i.e. ventilators, defibrillator and patient monitor"
+          ]
+        },
+        {
+          "company": "BUKAH TRAINING COLLEGE",
+          "role": "RECEPTIONIST CUM TYPIST",
+          "start_date": null,
+          "end_date": null,
+          "responsibilities": [
+            "Greeting Visitors – Welcoming clients, customers, and guests, and directing them appropriately",
+            "Answering Phones – Handling incoming calls, directing them, or taking messages",
+            "Scheduling Appointments – Managing calendars and booking meetings or appointments",
+            "Handling Inquiries – Providing information about the organization in person, over the phone, or via email",
+            "Managing Mail – Receiving, sorting, and distributing incoming and outgoing correspondence",
+            "Administrative Support – Performing basic clerical duties like filing, data entry, and document preparation",
+            "Maintaining Reception Area – Keeping the front desk and waiting area clean and organized",
+            "Security Protocols – Monitoring visitor access, issuing badges, or maintaining sign-in logs"
+          ]
+        },
+        {
+          "company": "BUKAH TRAINING COLLEGE",
+          "role": "MARKTER",
+          "start_date": null,
+          "end_date": null,
+          "responsibilities": [
+            "Brand Management – Building and maintaining a strong, consistent brand image",
+            "Advertising and Promotion – Designing and executing campaigns through digital, print, social media, or events.And also giving out flyers to people",
+            "Customer Engagement – Interacting with audiences to build relationships and encourage brand loyalty",
+            "Sales Support – Collaborating with the sales team to align marketing efforts and generate leads",
+            "Analyzing Performance – Measuring the success of campaigns and using data to improve future efforts",
+            "Managing Budgets – Planning and controlling marketing expenses to stay within budget"
+          ]
+        },
+        {
+          "company": "URIM LIMITED",
+          "role": "Receptionist",
+          "start_date": null,
+          "end_date": null,
+          "responsibilities": [
+            "Professional personal presentation",
+            "Customer service oriented",
+            "Front desk coordination",
+            "Professional attitude and appearance",
+            "Update and maintain staff sign in/ out board",
+            "Greeting customers coming to the company and notify the appropriate personnel about their attendance"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "Kenya medical training college",
+          "degree": "Diploma",
+          "field_of_study": "Medical engineering",
+          "graduation_year": null
+        },
+        {
+          "institution": "Kenya medical training college",
+          "degree": "Certificate",
+          "field_of_study": "Medical engineering",
+          "graduation_year": null
+        },
+        {
+          "institution": "Matulo girls secondary school",
+          "degree": "Highschool",
+          "field_of_study": null,
+          "graduation_year": null
+        },
+        {
+          "institution": "Nzoia industrial primary school",
+          "degree": "Primary school",
+          "field_of_study": null,
+          "graduation_year": null
+        }
+      ],
+      "certifications": [],
+      "languages": [],
+      "red_flags_or_gaps": [
+        "Significant employment gaps and multiple roles without specified dates.",
+        "Career path appears inconsistent, with recent dated roles (Trainer) diverging from the stated objective of a Biomedical Engineer/Technologist.",
+        "Education entries lack specific graduation years.",
+        "Unclear timeline years (2014, 2018, 2022, 2024) at the top of the document are not linked to specific events.",
+        "A future date (7/01/2025 - 8/04/2025) is listed at the top without context."
+      ],
+      "data_quality_notes": [
+        "Many employment entries lack specific start and end dates, making accurate experience calculation difficult.",
+        "Education entries lack graduation years.",
+        "The candidate's objective (biomedical engineer) does not align with the most recent dated work experience (Trainer).",
+        "The provided text contains inconsistent formatting and potential typos (e.g., 'MARKTER', 'adopt at implementing tech driven solution')."
+      ],
+      "source_file": "6faeaec7_Phanice Nasimiyu Wafula.pdf"
     }
   ],
   "processed_files": [
-    "2617430d_WANDERA CLARE RESUME-2.docx",
-    "3dd8501b_CV_Ridhi Bhudia_2026 (1).pdf",
-    "162f7129_Tony CV 0426_20260622_183529_0000.pdf",
-    "4b8de790_juliet.cv.pdf",
-    "5a2db82f_My ID.pdf",
+    "1c99e6a8_Updated Resume.pdf",
+    "20621d45_HARRIET KWAMBOKA OGETO (2).pdf",
+    "0d312ffc_Moses curriculum vitae-1.pdf",
+    "4f9a5d5f_FLORENCE CREDENTIALS (1).pdf",
+    "1f27eb4b_108_4_34293_1738847590_Advantage_Training_Certificate.pdf",
+    "3216c894_My Bsc Certificate.pdf",
+    "58a46069_Joseph recommendation.pdf",
+    "4fb3ea50_DANIEL GICHUHI-CURRICULUM VITAE-AGRICULTURAL ENGINEERING.pdf",
+    "6f0f373b_MICHAEL KOMBA MUHIKA-CV.pdf",
+    "6cd0f27e_Ivy_Letting_CV.pdf",
+    "5e6ec3a5_cv 2 (1) (2) (2)-6.pdf",
+    "4bff6246_Prisca Matila- CV.pdf",
+    "35da4eff_JOYCE WANJIRU KIARIE (2).pdf",
+    "64f9e7c8_Anthony Documents.pdf",
+    "58aadc27_Doc12.pdf",
+    "04b166d1_kimutai caleb academic doc.pdf",
+    "11711a5d_DOCUMENTS-DENNIS.pdf",
+    "15f203ad_SHUKRAN MAHOMMED DEGREE.pdf",
+    "3102721d_Salome_Njoroge_Cover_Letter.pdf",
+    "5c981fa3_Lilian_Munene_Technical_Sales_CV.docx",
+    "3ee71c13_Application_Letter_Accord_Medical-1.docx",
+    "3874f99a_CV(mercy) (2).docx",
+    "449cb658_BEATRICE MUMBI CV.pdf",
+    "4d501990_cover letter.docx",
+    "2731bc5b_SPLENDOUR AMARU .pdf",
+    "11b57460_Agnes Ngoroba CV-3.pdf",
+    "48a2481f_janet's cover letter.docx",
+    "63804c38_C.L Accord.pdf",
+    "35634c66_Mac Degree .pdf",
+    "686c1497_Sammy_Njenga_Cover_Letter_Accord_Medical_Technical_Sales_Engineer.pdf",
     "40ad0c4b_ElyonCV.pdf",
-    "0183d2ef_BILHAH_WANGARI_WAITHAKA_CV (1).pdf",
-    "08903073_JOORTH.pdf",
-    "45b6d876_My CV.pdf",
-    "195bff41_CV.pdf",
-    "0fa8aa99_Brian.pdf",
-    "0e348bbd_dennis_cv.pdf",
-    "1575916a_Watson Kipyegons's Cv.pdf",
-    "51f69535_Farhan Ehsan cv (1).pdf",
-    "41e46bb6_Nancy_Mogoi_Cover_Letter_Technical_Sales.pdf",
-    "65c340c3_Application Letter.docx",
-    "38aca4b8_LEAH KAGEHA LAGOSWA (00).pdf",
-    "3b4d60e1_Austin Oduor_CV.docx",
-    "13a86eea_Benedette _Chebet_Cover letter.pdf",
-    "49318ba0_Christine _Ireri_ CV.pdf",
+    "1d9192a6_JESKER A ODONGO COVER LETTER.docx",
     "0579b70d_Damaris Savali application letter.docx",
+    "2bfb483f_janet cv 2[2].docx",
+    "2d1b918a_cybersight certificate.pdf",
     "068be5d9_SAMKA.pdf",
-    "2a86179b_CVNEW2026.pdf",
-    "51949966_Ephrim_Baruch_Abok_CV (3) (2).pdf",
-    "60503741_CV - DAMAR ACHIENG OLWENY.pdf",
+    "2c10862a_Biomedical engineering technician1.pdf",
+    "40421fd1_cv.docx",
     "1be0d6de_Application_Letter_Accord_Medical.docx",
+    "2755ac15_academic documents.pdf",
+    "10dc9664_USAMA SABO CV.pdf",
+    "2617430d_WANDERA CLARE RESUME-2.docx",
+    "095e7a8d_ALICE CL.pdf",
+    "0eb7d39c_Abdullahi's CV [].pdf",
+    "0e348bbd_dennis_cv.pdf",
+    "195bff41_CV.pdf",
+    "4cd660e4_Mutunga_K_Nzioka updated CV_APRIL_2026.pdf",
+    "45b6d876_My CV.pdf",
+    "236a25ce_Victor midenyo CV  updated (1).pdf",
+    "2737a9b9_elosy_kinya_cv[1] (1).pdf",
+    "03f4190e_EMMANUEL KWEYU CV.doc",
+    "1fd5bd88_purity_karanja_cv.jpeg",
+    "60503741_CV - DAMAR ACHIENG OLWENY.pdf",
+    "0544a9e9_Rodrick1.pdf",
+    "48a94cb4_DAVID CV.pdf",
+    "4b2e7f8b_Godwin Kiplimo Resume.pdf",
+    "51949966_Ephrim_Baruch_Abok_CV (3) (2).pdf",
+    "5ee0751e_Amos .M.Thuranira.pdf",
+    "28c018d7_Accord cover letter.pdf",
+    "3dd8501b_CV_Ridhi Bhudia_2026 (1).pdf",
+    "538dbe48_ALEX OCHIENG CV  11.pdf",
+    "0819ba75_PERIS NGURO KURIA FINAL CV.pdf",
+    "4b173874_Caroline´s_Application_documents[1].pdf",
+    "496f8d9c_Hossam Hasan .Cv.pdf",
+    "60daf599_DOC-20260105-WA0000..pdf",
+    "51f69535_Farhan Ehsan cv (1).pdf",
+    "571c8f76_Biomedical engineering technician.pdf",
+    "0c66276f_Benard_Akoko_CV.pdf",
+    "077cbb61_Antony Wekesa Mechanical Engineer.pdf",
+    "160ca56a_Esther Cv.docx",
+    "3b914c90_Antony CV_2025.pdf(1)-1.pdf",
+    "3d649571_Kelvin Masika SIMIYU ECV.pdf",
+    "64924bf5_Mwendwa Sandra  CV.docx",
     "0ee778e0_Dawei Authorization Letter.260626.pdf",
-    "1736fa1f_CV-Shaleebridgid Achieng.pdf",
+    "040f23e0_EPHRAIM-MANDALA Cv(1)(1)(1).pdf",
+    "4b8de790_juliet.cv.pdf",
+    "36b63d4d_CV RONALD KOSGEI TECHNICAL SALES ENGINEER.pdf",
+    "54116d3a_Ean CV.pdf",
+    "5c708d5e_Amit_Sahu_Updated CV.pdf",
+    "4dc5806d_FELICITY MWENDWA CV-1 (1).docx",
+    "2c29021e_Denis Otieno cv.pdf",
+    "5c84c0c0_faith cherono CV.pdf",
+    "579b90a9_Nancy_Mogoi_CV_Medical_Sales.pdf",
+    "4540ed39_Jared Kipngetich-CV.pdf",
+    "5b354f5b_Kiambu Hospital Attachment.pdf",
+    "2e8bd6d3_FKR CV.pdf",
+    "13a86eea_Benedette _Chebet_Cover letter.pdf",
+    "63688bff_St luke's hospital Attachment.pdf",
+    "1f19e5e4_Mac Mwambene- Technical Sales Engineer- CV.pdf",
+    "13fae0c0_Marina_Sameh 2.pdf",
+    "20c3a7c8_Alvin_Kiprotich_Technical_Sales_CV.pdf",
+    "4a4ff474_Eugene Adika Documents.pdf",
+    "206de4b3_ANDREW MWASAME - Resume - Senior Channel Sales Engineer.pdf",
+    "0fa8aa99_Brian.pdf",
+    "2b834ffc_Immaculate cv-2-1.docx",
+    "68d9557f_TABITHA-1.pdf",
+    "3879a000_Njeri_Kimaru_CoverLetter_TechnicalSalesEngineer.pdf",
+    "59a7609b_moni_cv_ 98 (1).docx",
+    "3f5896c6_Richard_Gekonge_Joseph_CV-1.docx",
+    "5958a9eb_MARY GAGAWALA UPDATED CV SALES EXECUTIVE OFFICER.pdf",
+    "12e1617a_MILLICENT.pdf",
+    "53c0c2f9_Mercy Lutuli Resume.docx",
+    "65d0d0a6_Bruce_Hamusonde_CV_polished.docx",
+    "5c027c07_Adobe Scan 03 Sept 2025 (1).pdf",
+    "0ceb0fd8_LiDah WANJIRU CV -2.pdf",
+    "298f6249_Zertifikat-Online-Maintenance_Larry Amariaji (1).pdf",
+    "0169e3ef_Hazel Saoke Medical Engineering Technologist 1(1).pdf",
     "53d525c1_Faith's.CURRICULUMVITAE-WPS Office (03.9.25)(1).pdf",
+    "0183d2ef_BILHAH_WANGARI_WAITHAKA_CV (1).pdf",
+    "6faeaec7_Phanice Nasimiyu Wafula.pdf",
+    "2bddec9f_Esther Khayali  Andaye  cv updated .pdf",
+    "2a86179b_CVNEW2026.pdf",
+    "3043fc87_chepkos CV.docx",
+    "6b487337_Pauline_Kuya_Complete_CV.docx",
+    "23f56b79_certificate.pdf",
+    "425976cb_Mac Mwambene Cover Letter.pdf",
+    "6c4b887f_Alice_Nyambeki_CV.pdf",
+    "162f7129_Tony CV 0426_20260622_183529_0000.pdf",
+    "41fcff48_Dinah Diana wawira kinyua CV.pdf",
+    "48b99ec2_GLADWELL'S RESUME.docx",
+    "0bc2578f_Rigan_Ochieng_CV (2).docx",
+    "037771a3_KNH recommendation (1)(1).pdf",
+    "3f43ef3d_cv Update.pdf",
+    "41e46bb6_Nancy_Mogoi_Cover_Letter_Technical_Sales.pdf",
+    "1736fa1f_CV-Shaleebridgid Achieng.pdf",
+    "38aca4b8_LEAH KAGEHA LAGOSWA (00).pdf",
+    "08903073_JOORTH.pdf",
+    "4f9f1487_TRAINING CALENDAR 2025-2026_compressed.pdf",
+    "281d12e1_BONFACE NYAKUNDI-CURRICULUM VITAE.-1-1 (1) (1).pdf",
+    "2bff335b_blue professional modern CV resume_20260320_134247_0000.pdf",
+    "07da26a5_Career Directions Limited Company Profile_compressed.pdf",
+    "13cedd8d_scan (4) (1).pdf",
+    "5a2db82f_My ID.pdf",
+    "3b4d60e1_Austin Oduor_CV.docx",
+    "63f85d16_JESKER ACHIENG ODONGO CV.docx",
+    "3239236b_Christine Ireri Application Letter -Accord Medical Supplies.docx",
     "5a7c03a8_v3 Cybersight Certificate 2026.pdf",
     "3216c894_granted_by_the_National_Accreditation_Inard,_Ghana,_and_on_the (1).pdf",
-    "0544a9e9_Rodrick1.pdf",
-    "07dc7866_Njeri_Kimaru_Resume_TechnicalSalesEngineer.pdf",
-    "2b834ffc_Immaculate cv-2-1.docx",
-    "12e1617a_MILLICENT.pdf",
-    "4540ed39_Jared Kipngetich-CV.pdf",
-    "3043fc87_chepkos CV.docx",
-    "4bff6246_Prisca Matila- CV.pdf",
-    "095e7a8d_ALICE CL.pdf",
-    "4f9a5d5f_FLORENCE CREDENTIALS (1).pdf",
-    "5e6ec3a5_cv 2 (1) (2) (2)-6.pdf",
-    "5f64e7b4_Fridah_Jepkosgei-CV-s.pdf",
-    "5c708d5e_Amit_Sahu_Updated CV.pdf",
-    "5c981fa3_Lilian_Munene_Technical_Sales_CV.docx",
-    "35634c66_Mac Degree .pdf",
-    "63804c38_C.L Accord.pdf",
-    "579b90a9_Nancy_Mogoi_CV_Medical_Sales.pdf",
-    "58a46069_Joseph recommendation.pdf",
-    "2737a9b9_elosy_kinya_cv[1] (1).pdf",
-    "562df5fc_PHYLLIS MARERA CV(1).pdf",
-    "28001595_Josiah_Official_CV-2.docx",
-    "1583e237_Shukran_Mahommed_Cv.pdf.pdf",
-    "3879a000_Njeri_Kimaru_CoverLetter_TechnicalSalesEngineer.pdf",
-    "11711a5d_DOCUMENTS-DENNIS.pdf",
-    "6b0a813a_JAMES CV.pdf",
-    "4fb3ea50_DANIEL GICHUHI-CURRICULUM VITAE-AGRICULTURAL ENGINEERING.pdf",
-    "2731bc5b_SPLENDOUR AMARU .pdf",
-    "3102721d_Salome_Njoroge_Cover_Letter.pdf",
-    "4cd660e4_Mutunga_K_Nzioka updated CV_APRIL_2026.pdf",
-    "4f9f1487_TRAINING CALENDAR 2025-2026_compressed.pdf",
-    "2755ac15_academic documents.pdf",
-    "3b914c90_Antony CV_2025.pdf(1)-1.pdf",
-    "0eb7d39c_Abdullahi's CV [].pdf",
-    "449cb658_BEATRICE MUMBI CV.pdf",
-    "1fd5bd88_purity_karanja_cv.jpeg",
-    "5da68d8d_medical engineering certificate.pdf",
-    "4dc5806d_FELICITY MWENDWA CV-1 (1).docx",
-    "64f9e7c8_Anthony Documents.pdf",
-    "160ca56a_Esther Cv.docx",
-    "3b9a9730_prestford omanga cover letter.docx",
-    "54116d3a_Ean CV.pdf",
-    "48b99ec2_GLADWELL'S RESUME.docx",
-    "236a25ce_Victor midenyo CV  updated (1).pdf",
-    "0ceb0fd8_LiDah WANJIRU CV -2.pdf",
-    "686c1497_Sammy_Njenga_Cover_Letter_Accord_Medical_Technical_Sales_Engineer.pdf",
-    "206de4b3_ANDREW MWASAME - Resume - Senior Channel Sales Engineer.pdf",
-    "1da20eaf_Bett.pdf",
-    "281d12e1_BONFACE NYAKUNDI-CURRICULUM VITAE.-1-1 (1) (1).pdf",
-    "5b354f5b_Kiambu Hospital Attachment.pdf",
-    "13fae0c0_Marina_Sameh 2.pdf",
-    "3ced3e85_NASIMIYU KHAMALA cv (1).pdf",
-    "1c99e6a8_Updated Resume.pdf",
-    "5c84c0c0_faith cherono CV.pdf",
-    "5c027c07_Adobe Scan 03 Sept 2025 (1).pdf",
-    "3f5896c6_Richard_Gekonge_Joseph_CV-1.docx",
-    "077cbb61_Antony Wekesa Mechanical Engineer.pdf",
-    "59a7609b_moni_cv_ 98 (1).docx",
-    "63f85d16_JESKER ACHIENG ODONGO CV.docx",
     "068b14ca_IMG_20260128_163653_65.jpg",
-    "2bfb483f_janet cv 2[2].docx",
-    "655f8b46_B_CV.pdf",
-    "04b166d1_kimutai caleb academic doc.pdf",
-    "3ee71c13_Application_Letter_Accord_Medical-1.docx",
-    "538dbe48_ALEX OCHIENG CV  11.pdf",
-    "1f19e5e4_Mac Mwambene- Technical Sales Engineer- CV.pdf",
-    "20621d45_HARRIET KWAMBOKA OGETO (2).pdf",
-    "3d649571_Kelvin Masika SIMIYU ECV.pdf",
-    "35da4eff_JOYCE WANJIRU KIARIE (2).pdf",
-    "571c8f76_Biomedical engineering technician.pdf",
-    "298f6249_Zertifikat-Online-Maintenance_Larry Amariaji (1).pdf",
-    "4fc4f3b7_Enoch CV.docx",
-    "2d802859_application letter.docx",
-    "1f27eb4b_108_4_34293_1738847590_Advantage_Training_Certificate.pdf",
-    "4736db85_Accord Hr docs.pdf",
-    "2c10862a_Biomedical engineering technician1.pdf",
-    "5dc89837_Rhona Mercy N cv.pdf",
-    "1d9192a6_JESKER A ODONGO COVER LETTER.docx",
-    "3239236b_Christine Ireri Application Letter -Accord Medical Supplies.docx",
-    "58aadc27_Doc12.pdf",
-    "0819ba75_PERIS NGURO KURIA FINAL CV.pdf",
-    "0169e3ef_Hazel Saoke Medical Engineering Technologist 1(1).pdf",
-    "28c018d7_Accord cover letter.pdf",
-    "0bc2578f_Rigan_Ochieng_CV (2).docx",
-    "0d312ffc_Moses curriculum vitae-1.pdf",
-    "23f56b79_certificate.pdf",
-    "34c1da30_MERCY KOSGEI CV.pdf",
-    "2c29021e_Denis Otieno cv.pdf",
-    "65d0d0a6_Bruce_Hamusonde_CV_polished.docx",
-    "03f4190e_EMMANUEL KWEYU CV.doc",
-    "3216c894_My Bsc Certificate.pdf",
-    "11b57460_Agnes Ngoroba CV-3.pdf",
+    "28001595_Josiah_Official_CV-2.docx",
+    "3ced3e85_NASIMIYU KHAMALA cv (1).pdf",
     "5df6a145_Samuel enhanced 2.0 (1).pdf",
-    "10dc9664_USAMA SABO CV.pdf",
-    "13cedd8d_scan (4) (1).pdf",
-    "4b173874_Caroline´s_Application_documents[1].pdf",
+    "1da20eaf_Bett.pdf",
+    "1575916a_Watson Kipyegons's Cv.pdf",
     "4feab18f_MILINGO EMANUEL CV.pdf",
-    "5958a9eb_MARY GAGAWALA UPDATED CV SALES EXECUTIVE OFFICER.pdf",
-    "425976cb_Mac Mwambene Cover Letter.pdf",
-    "20c3a7c8_Alvin_Kiprotich_Technical_Sales_CV.pdf",
-    "3874f99a_CV(mercy) (2).docx",
-    "6b487337_Pauline_Kuya_Complete_CV.docx",
-    "040f23e0_EPHRAIM-MANDALA Cv(1)(1)(1).pdf",
-    "4b2e7f8b_Godwin Kiplimo Resume.pdf",
-    "2e8bd6d3_FKR CV.pdf",
-    "48a2481f_janet's cover letter.docx",
-    "15f203ad_SHUKRAN MAHOMMED DEGREE.pdf",
-    "2bff335b_blue professional modern CV resume_20260320_134247_0000.pdf",
-    "496f8d9c_Hossam Hasan .Cv.pdf",
-    "36b63d4d_CV RONALD KOSGEI TECHNICAL SALES ENGINEER.pdf",
-    "1af68707_Prestford_Omanga_CV.docx",
-    "41fcff48_Dinah Diana wawira kinyua CV.pdf",
-    "63688bff_St luke's hospital Attachment.pdf",
-    "4d501990_cover letter.docx",
-    "0c66276f_Benard_Akoko_CV.pdf",
-    "4a4ff474_Eugene Adika Documents.pdf",
-    "2d1b918a_cybersight certificate.pdf",
-    "60daf599_DOC-20260105-WA0000..pdf",
-    "40421fd1_cv.docx",
-    "5ee0751e_Amos .M.Thuranira.pdf",
-    "3f43ef3d_cv Update.pdf",
-    "02bad3c1_CV - JUMA (1) (1).pdf",
-    "53c0c2f9_Mercy Lutuli Resume.docx",
+    "6b0a813a_JAMES CV.pdf",
     "3a4efe65_MR NDUVA ACCORD MS .pdf",
-    "64924bf5_Mwendwa Sandra  CV.docx",
-    "07da26a5_Career Directions Limited Company Profile_compressed.pdf",
-    "2bddec9f_Esther Khayali  Andaye  cv updated .pdf",
-    "48a94cb4_DAVID CV.pdf",
-    "037771a3_KNH recommendation (1)(1).pdf"
+    "02bad3c1_CV - JUMA (1) (1).pdf",
+    "4736db85_Accord Hr docs.pdf",
+    "4fc4f3b7_Enoch CV.docx",
+    "1af68707_Prestford_Omanga_CV.docx",
+    "6c3eb431_TECHNICAL SALES ENGINEER .pdf",
+    "2d802859_application letter.docx",
+    "5f64e7b4_Fridah_Jepkosgei-CV-s.pdf",
+    "5dc89837_Rhona Mercy N cv.pdf",
+    "34c1da30_MERCY KOSGEI CV.pdf",
+    "49318ba0_Christine _Ireri_ CV.pdf",
+    "5da68d8d_medical engineering certificate.pdf",
+    "1583e237_Shukran_Mahommed_Cv.pdf.pdf",
+    "65c340c3_Application Letter.docx",
+    "07dc7866_Njeri_Kimaru_Resume_TechnicalSalesEngineer.pdf",
+    "562df5fc_PHYLLIS MARERA CV(1).pdf",
+    "3b9a9730_prestford omanga cover letter.docx",
+    "655f8b46_B_CV.pdf"
   ],
-  "last_updated": "2026-07-08T12:21:15.411195"
+  "last_updated": "2026-07-08T12:30:24.408509"
 }
