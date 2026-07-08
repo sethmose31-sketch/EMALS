@@ -1,0 +1,28 @@
+{
+  "full_name": null,
+  "contact": {
+    "email": null,
+    "phone": null,
+    "location": null,
+    "linkedin": null,
+    "portfolio_or_github": null
+  },
+  "summary": "Could not be processed automatically.",
+  "current_title": null,
+  "total_experience_years": null,
+  "seniority_level": "Unknown",
+  "work_experience": [],
+  "education": [],
+  "skills": {
+    "technical": [],
+    "soft": [],
+    "tools_and_platforms": []
+  },
+  "languages": [],
+  "certifications": [],
+  "notable_projects": [],
+  "red_flags_or_gaps": [],
+  "data_quality_notes": [
+    "PROCESSING FAILED: All providers in the chain failed"
+  ]
+}

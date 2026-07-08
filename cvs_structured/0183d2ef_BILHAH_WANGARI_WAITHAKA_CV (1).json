@@ -1,0 +1,31 @@
+{
+  "full_name": null,
+  "contact": {
+    "email": null,
+    "phone": null,
+    "location": null,
+    "linkedin": null,
+    "portfolio_or_github": null
+  },
+  "summary": "Could not be processed automatically.",
+  "current_title": null,
+  "total_experience_years": null,
+  "seniority_level": "Unknown",
+  "work_experience": [],
+  "education": [],
+  "skills": {
+    "technical": [],
+    "soft": [],
+    "tools_and_platforms": []
+  },
+  "languages": [],
+  "certifications": [
+    "[from attached file] 23f56b79_certificate.pdf"
+  ],
+  "notable_projects": [],
+  "red_flags_or_gaps": [],
+  "data_quality_notes": [
+    "PROCESSING FAILED: All providers in the chain failed",
+    "Matched 1 certificate file(s) by filename: 23f56b79_certificate.pdf"
+  ]
+}
